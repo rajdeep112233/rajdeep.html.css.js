@@ -1,0 +1,8 @@
+/* Custom font for the digital clock look */
+body {
+    font-family: 'Inter', sans-serif;
+}
+
+.clock-font {
+    font-family: 'Orbitron', sans-serif;
+}
